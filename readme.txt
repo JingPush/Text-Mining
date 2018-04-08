@@ -1,1 +1,0 @@
-Implementation of machine learning algorithms to make predictions on Yelp Reviews Data
